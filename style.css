@@ -17,6 +17,8 @@
 .content {
   padding-left: 50px;
   padding-top: 100px;
+  background-color: rgba(0, 0, 0, 0.52);
+  height: 400px;
 }
 
 .content .heading {
